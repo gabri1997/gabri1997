@@ -4,6 +4,8 @@ I'm Gabriele Rosati
     👨‍🎓 I’m a Computer Science Engineering M.Sc. student at the University of Modena and Reggio Emilia (UNIMORE)
     📚 I'm currently studying topics of AI, Machine & Deep Learning, Distributed A.I. Systems, Robotics, IoT, Web Development and User Experience Design
     🎥 I love cinema, politics and technology
+    
+    Death to Videodrome! Long live the new flesh! (cit. Videodrome) 
       
 
 My Vision 💡
@@ -18,5 +20,6 @@ I'm learning/using 🛠
 
 How to reach me 📫
 
-    👥 LinkedIn
-    📧 gabrielerosati97@gmail.com
+    👥 LinkedIn : Gabriele Rosati
+    📧 Email: gabrielerosati97@gmail.com
+    📞 Phone: 3516610504
