@@ -1,12 +1,15 @@
+# About me
+
 I'm Gabriele Rosati 
 
     😊 I was born in 01/11/1997 in Castelnovo Monti (RE)
-    🏫 I attended scientific high school in Castelnovo Monti (RE) 
+    🏫 I attended scientific high school in Castelnovo Monti (RE)
     👨‍🎓 I’m a Computer Science Engineering M.Sc. student at the University of Modena and Reggio Emilia (UNIMORE)
     📚 I'm currently studying topics of AI, Machine & Deep Learning, Distributed A.I. Systems, Robotics, IoT, Web Development and User Experience Design
     🎥 I love cinema, politics and technology
     
-    My favourtue quote: "Death to Videodrome! Long live the new flesh!" (cit. Videodrome) 
+    My favourite singer: Fausto Rossi
+    My favourite quote: "Death to Videodrome! Long live the new flesh!" (cit. Videodrome) 
    
 
 My Vision 💡
