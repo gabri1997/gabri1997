@@ -6,6 +6,7 @@ I'm Gabriele Rosati
     🎥 I love cinema, politics and technology
     
     Death to Videodrome! Long live the new flesh! (cit. Videodrome) 
+    
     ![maxresdefault](https://user-images.githubusercontent.com/58270634/190855650-00ea5610-cfb4-49fc-8a98-825cd302fc6f.jpg)
 
       
