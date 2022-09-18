@@ -14,7 +14,7 @@ I'm Gabriele Rosati
 
 My Vision 💡
 
-Keep improving ourselves developing new skills to give a contribution to develop new technologies that could help people.
+Keep improving ourselves developing new skills to give a contribution to create new technologies that could help people.
 
 Technologies 🖥️
 
