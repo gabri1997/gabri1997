@@ -13,7 +13,7 @@ Technologies 🖥️
 
 I'm learning/using 🛠
 
-    Python, Java, HTML + CSS, ROS, C, C++, Git & Git-Hub and other languages/tools
+    Python, Java, HTML + CSS, ROS, C, Git & Git-Hub and other languages/tools
 
 How to reach me 📫
 
