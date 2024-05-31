@@ -8,13 +8,6 @@ I'm Gabriele Rosati
     📚 I'm currently studying topics of AI, Machine & Deep Learning, Distributed A.I. Systems, Robotics, IoT, Web Development and User Experience Design
     🎥 I love cinema, politics and technology
     
-    My favourite singer: Fausto Rossi
-    My favourite quote: "Death to Videodrome! Long live the new flesh!" (cit. Videodrome) 
-   
-
-My Vision 💡
-
-Keep improving ourselves developing new skills to give a contribution to create new technologies that could help people.
 
 Technologies 🖥️
 
